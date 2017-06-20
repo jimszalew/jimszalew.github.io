@@ -1,3 +1,4 @@
 body{
-      background-image: url(http://static.tabatatimes.com/wp-content/uploads/2013/10/Sisyphus-Image-01C.jpg);
+      background-image: url(http://static.tabatatimes.com/wp-content/uploads/2013/10/Sisyphus-Image-01C.jpg) center center;
+      background-repeat: no-repeat;
 }
